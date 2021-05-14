@@ -1,0 +1,29 @@
+
+
+
+
+body {
+  background-color: #000;
+}
+
+h1 {
+  color: #42f58a;
+  text-align: center;
+}
+
+
+.clock {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  color: #fff;
+  font-size: 100px;
+  border: 1px solid #42f58a;
+  padding: 0px 5px 0px 5px;
+
+}
+
+footer {
+  color: #42f58a;
+}
